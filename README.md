@@ -50,8 +50,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byramnarayan&label=Profile%20views&color=brightgreen&style=flat-square" alt="byramnarayan" /> </p>
 <p align="center">
 <a href="https://github.com/byramnarayan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byramnarayan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byramnarayan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
