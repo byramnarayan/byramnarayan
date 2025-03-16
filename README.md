@@ -46,11 +46,14 @@
 
 
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=byramnarayan&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&theme=radical"/>
-</div>
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=byramnarayan&label=Profile%20views&color=brightgreen&style=flat-square" alt="byramnarayan" /> </p>
+<p align="center">
+<a href="https://github.com/byramnarayan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byramnarayan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 📈 &nbsp;Activity Graph
 [![Ramnarayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byramnarayan&theme=tokyo-night)](https://github.com/byramnarayan/github-readme-activity-graph)
