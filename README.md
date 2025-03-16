@@ -31,6 +31,20 @@
 ![Collaboration](https://img.shields.io/badge/Collaboration-%232196F3.svg?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%239C27B0.svg?style=for-the-badge)
 
+## 💼 &nbsp;Projects
+
+<div align="center">
+  <a href="https://your-project-link-here">
+    <img src="https://img.shields.io/badge/Project-Pet%20Adoption%20Website-blue?style=for-the-badge&logo=figma" alt="Pet Adoption Website"/>
+  </a>
+  <p>A comprehensive pet adoption platform designed with Figma, focusing on user-friendly navigation and adoption workflow.</p>
+  <br>
+  <a href="https://your-project-link-here">
+    <img src="https://img.shields.io/badge/Project-Get%20Together%20Social%20Media%20App-purple?style=for-the-badge&logo=figma" alt="Get Together Social Media App"/>
+  </a>
+  <p>Social gathering app designed with advanced typography, spacing, and accessibility features.</p>
+</div>
+
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byramnarayan&label=Profile%20views&color=brightgreen&style=flat-square" alt="byramnarayan" /> </p>
 
@@ -51,9 +65,6 @@
 <a href="https://linkedin.com/in/byramnarayan"><img src="https://img.shields.io/badge/-byramnarayan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-## 💼 &nbsp;Projects
-- [Pet Adoption Website](https://your-project-link-here)
-- [Get Together Social Media App](https://your-project-link-here)
 
 ## ⚡ &nbsp;Fun Fact
 I volunteer 20 hours/month at the Robin Hood Foundation, helping rural students with their studies!
