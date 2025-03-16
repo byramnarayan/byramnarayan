@@ -1,7 +1,7 @@
 # 🤗 Hey There, I am Ramnarayan. I am a
  
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Computer+Science+Student;Figma+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Tech+Enthusiast;Programming+problem+solving+leetcode" alt="Typing SVG" /></a>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
@@ -31,56 +31,13 @@
 ![Collaboration](https://img.shields.io/badge/Collaboration-%232196F3.svg?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%239C27B0.svg?style=for-the-badge)
 
-## 💼 &nbsp;Projects
 
+
+## 📊 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Pet Adoption Website</h3>
-        <p align="center">
-          <a href="https://your-project-link-here" target="_blank">
-            <img src="https://dummyimage.com/400x200/6a8eff/ffffff&text=Pet+Adoption+Website" width="400" alt="Pet Adoption Website"/>
-          </a>
-        </p>
-        <p align="center">
-          A comprehensive pet adoption platform designed with Figma, focusing on user-friendly navigation and adoption workflow.
-        </p>
-        <p align="center">
-          <a href="https://your-project-link-here" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Demo-blue?style=for-the-badge&logo=figma" alt="View Demo"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Get Together Social Media App</h3>
-        <p align="center">
-          <a href="https://your-project-link-here" target="_blank">
-            <img src="https://dummyimage.com/400x200/9b5de5/ffffff&text=Get+Together+App" width="400" alt="Get Together Social Media App"/>
-          </a>
-        </p>
-        <p align="center">
-          Social gathering app designed with advanced typography, spacing, and accessibility features.
-        </p>
-        <p align="center">
-          <a href="https://your-project-link-here" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Demo-purple?style=for-the-badge&logo=figma" alt="View Demo"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=byramnarayan&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&theme=radical"/>
 </div>
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byramnarayan&label=Profile%20views&color=brightgreen&style=flat-square" alt="byramnarayan" /> </p>
-
-<p align="center">
-<a href="https://github.com/byramnarayan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byramnarayan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ## 📈 &nbsp;Activity Graph
 [![Ramnarayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byramnarayan&theme=tokyo-night)](https://github.com/byramnarayan/github-readme-activity-graph)
