@@ -8,10 +8,38 @@
 - 💼 Currently a Fellow at Aspire Institute, engaging in global learning experiences
 
 ## 🛠️ Skills
-- **Design:** Figma, UI/UX Design Principles, Wireframing, Prototyping
-- **Programming:** C, Core JAVA
-- **Tools:** Git, Draw.io, Excalidraw
-- **Soft Skills:** Communication, Teamwork and Collaboration
+
+### Design
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+</p>
+
+### Programming
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/excalidraw/0A85D1" alt="excalidraw" width="40" height="40"/>
+</p>
+
+### Soft Skills
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/7641/7641727.png" alt="communication" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1570/1570251.png" alt="teamwork" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3281/3281307.png" alt="collaboration" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2382/2382606.png" alt="problem-solving" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
 <div align="center">
