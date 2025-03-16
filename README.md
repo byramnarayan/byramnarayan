@@ -1,7 +1,7 @@
 # 🤗 Hey There, I am Ramnarayan. I am a
  
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Tech+Enthusiast;Programming+problem+solving+leetcode" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Tech+Enthusiast;Programming+problem+solving; Leetcode" alt="Typing SVG" /></a>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
