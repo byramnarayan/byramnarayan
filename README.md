@@ -14,8 +14,10 @@
 - **Soft Skills:** Communication, Teamwork and Collaboration
 
 ## 📊 GitHub Stats
-![Ramnarayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=byramnarayan&show_icons=true&theme=radical&height=170)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&theme=radical&height=170))
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=byramnarayan&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&theme=radical"/>
+</div>
 
 ## 🔗 Connect With Me
 - 📧 Email: byramnarayn@gmail.com
