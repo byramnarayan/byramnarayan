@@ -34,15 +34,42 @@
 ## 💼 &nbsp;Projects
 
 <div align="center">
-  <a href="https://your-project-link-here">
-    <img src="https://img.shields.io/badge/Project-Pet%20Adoption%20Website-blue?style=for-the-badge&logo=figma" alt="Pet Adoption Website"/>
-  </a>
-  <p>A comprehensive pet adoption platform designed with Figma, focusing on user-friendly navigation and adoption workflow.</p>
-  <br>
-  <a href="https://your-project-link-here">
-    <img src="https://img.shields.io/badge/Project-Get%20Together%20Social%20Media%20App-purple?style=for-the-badge&logo=figma" alt="Get Together Social Media App"/>
-  </a>
-  <p>Social gathering app designed with advanced typography, spacing, and accessibility features.</p>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Pet Adoption Website</h3>
+        <p align="center">
+          <a href="https://your-project-link-here" target="_blank">
+            <img src="https://dummyimage.com/400x200/6a8eff/ffffff&text=Pet+Adoption+Website" width="400" alt="Pet Adoption Website"/>
+          </a>
+        </p>
+        <p align="center">
+          A comprehensive pet adoption platform designed with Figma, focusing on user-friendly navigation and adoption workflow.
+        </p>
+        <p align="center">
+          <a href="https://your-project-link-here" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Demo-blue?style=for-the-badge&logo=figma" alt="View Demo"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Get Together Social Media App</h3>
+        <p align="center">
+          <a href="https://your-project-link-here" target="_blank">
+            <img src="https://dummyimage.com/400x200/9b5de5/ffffff&text=Get+Together+App" width="400" alt="Get Together Social Media App"/>
+          </a>
+        </p>
+        <p align="center">
+          Social gathering app designed with advanced typography, spacing, and accessibility features.
+        </p>
+        <p align="center">
+          <a href="https://your-project-link-here" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Demo-purple?style=for-the-badge&logo=figma" alt="View Demo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
