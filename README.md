@@ -4,9 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Computer+Science+Student;Figma+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-## 📈 &nbsp;Activity Graph
-[![Ramnarayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byramnarayan&theme=tokyo-night)](https://github.com/byramnarayan/github-readme-activity-graph)
-
 ## 🛠 &nbsp;Tech Stack
 
 **Design** \
@@ -43,6 +40,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byramnarayan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 📈 &nbsp;Activity Graph
+[![Ramnarayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byramnarayan&theme=tokyo-night)](https://github.com/byramnarayan/github-readme-activity-graph)
+
 
 ## 🔗 &nbsp;Connect With Me
 <p align="center">
