@@ -61,7 +61,7 @@
 
 ## 🔗 &nbsp;Connect With Me
 <p align="center">
-<a href="mailto:byramnarayn@gmail.com"><img src="https://img.shields.io/badge/-byramnarayn@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:byramnarayan@gmail.com"><img src="https://img.shields.io/badge/-byramnarayn@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/byramnarayan"><img src="https://img.shields.io/badge/-byramnarayan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
